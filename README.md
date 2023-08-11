@@ -1,8 +1,8 @@
 <h1>Bem vindo(a) ao perfil de Tayná Scimisk :)</h1>
 <div>
   <a href="https://github.com/tayna-scimisk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayna-scimisk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayna-scimisk&layout=compact&langs_count=6&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayna-scimisk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayna-scimisk&layout=compact&langs_count=6&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
